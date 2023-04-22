@@ -1,2 +1,2 @@
-# java_scripting
-my hands on practice in java scripting
+Hellow everyone,
+I am a Java sripting student
