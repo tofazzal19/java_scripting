@@ -1,0 +1,8 @@
+This code is using nested loops to iterate through a two-dimensional array (bigarr). Here are the steps that the code goes through:
+
+The outer loop is initialized with i=0. It will iterate as long as i is less than the length of bigarr.
+For each iteration of the outer loop, the code will execute the console.log statement, which will output the inner array at index i.
+The inner loop is then initialized with j=0. It will iterate as long as j is less than the length of the inner array at index i.
+For each iteration of the inner loop, the code will execute the console.log statement, which will output the element at index j of the inner array at index i.
+Once the inner loop has finished iterating, the outer loop will move on to the next element in bigarr and repeat steps 2-4 until all elements in bigarr have been processed.
+So, when this code is executed with the bigarr array defined as [[1,2,3], [2,3,4], [7,7,7]], the output will be:
